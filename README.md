@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/issues-pr/hamzadenizyilmaz/Upcast)
 ![](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
 ![](https://img.shields.io/badge/Architecture-Microservices%20Ready-blue)
-![](https://img.shields.io/badge/Production-Ready%20Q3%202024-orange)
+![](https://img.shields.io/badge/Production-Ready%20Q3%202026-orange)
 
 <h1 align="center"><a href="https://upcast.com.tr" target="_blank">Upcast - Enterprise Monitoring Platform</a></h1>
 
